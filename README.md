@@ -1,16 +1,12 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**Ekaterina-Isabel/Ekaterina-Isabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Екатерина Кузнецова, ручной тестировщик и начинающий авто-тестировщик на Java.
+### Вот, что я умею
+- тестирование с помощью автотестов на Java туристического веб-сервиса [Дипломная работа профессии Тестировщик](https://github.com/Ekaterina-Isabel/Diploma/blob/master/README.md)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Сертификаты
+- [ручное тестирование веб-приложений](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/manual%20testing%20of%20web%20applications.pdf)
+- [Git](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Git.pdf)
+- [Java для тестировщиков](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Java%20for%20testers.pdf)
+- [автоматизированное тестирование](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/automated%20testing.pdf)
+- 
