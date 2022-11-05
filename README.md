@@ -11,7 +11,10 @@ Bash, Git, MySQL, PostgreSQL, Docker, Docker-compose, Java, WordPress
   - написан чеклист для функциональной проверки личного кабинета сайта,
   - составлен набор тест-кейсов на проверку функционала восстановления пароля,
   - на основе скриншота созданы баг-репорты, 
-  - проанализирован POST запрос на сайте при работе с личными данными пользователей 
+  - проанализирован POST запрос на сайте при работе с личными данными пользователей
+- [Домашние работы по курсу «Git — система контроля версий»](https://github.com/Ekaterina-Isabel/GIT-31-hw)
+- [Домашние работы по курсу «Java для тестировщиков»](https://github.com/Ekaterina-Isabel/JAVAQA-31-hw)
+- [Домашние работы по курсу «Автоматизированное тестирование»](https://github.com/Ekaterina-Isabel/AQA-31-hw)
 
 ### Диплом
 - [Тестировщик ПО](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma.pdf) (Нетология)
