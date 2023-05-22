@@ -25,4 +25,4 @@ Bash, Git, MySQL, PostgreSQL, Docker, Docker-compose, Java, WordPress
 - [автоматизированное тестирование](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/automated%20testing.pdf)
 
 ### Удостоверение о повышении квалификации
-- [Web-программист: с нуля до первых проектов]() (Томский государственный университет) (позже добавлю, пока нет возможности)
+- [Web-программист: с нуля до первых проектов](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/professional_development_certificate.jpg) (Томский государственный университет)
