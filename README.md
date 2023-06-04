@@ -3,7 +3,7 @@
 Я Екатерина Кузнецова, ручной тестировщик и начинающий авто-тестировщик на Java.
 
 ## Мой стек
-Bash, Git, MySQL, PostgreSQL, Docker, Docker-compose, Java, WordPress
+Bash, Git, MySQL, PostgreSQL, Docker, Docker-compose, Java.
 
 ### Проекты
 - тестирование веб-сервиса с помощью автотестов на Java - [Дипломная работа профессии Тестировщик](https://github.com/Ekaterina-Isabel/Diploma/blob/master/README.md)
