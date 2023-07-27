@@ -17,12 +17,12 @@ Bash, Git, MySQL, PostgreSQL, Docker, Docker-compose, Java.
 - [Домашние работы по курсу «Автоматизированное тестирование»](https://github.com/Ekaterina-Isabel/AQA-31-hw)
 
 ### Диплом
-- [Тестировщик ПО](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma.pdf) (Нетология)
+- [Тестировщик ПО](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma_1.jpg) [программа](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma_2.jpg) (Нетология)
 ### Сертификаты
-- [ручное тестирование веб-приложений](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/manual%20testing%20of%20web%20applications.pdf)
-- [Git](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Git.pdf)
-- [Java для тестировщиков](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Java%20for%20testers.pdf)
-- [автоматизированное тестирование](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/automated%20testing.pdf)
+- [ручное тестирование веб-приложений](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/manual%20testing%20of%20web%20applications.jpg))
+- [Git](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Git.jpg)
+- [Java для тестировщиков](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Java%20for%20testers.jpg)
+- [автоматизированное тестирование](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/automated%20testing.jpg)
 
 ### Удостоверение о повышении квалификации
 - [Web-программист: с нуля до первых проектов](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/professional_development_certificate.jpg) (Томский государственный университет)
