@@ -37,7 +37,7 @@
 ### 📱 Тестирование мобильных приложений:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android-Studio" alt="Android-Studio" width="40" height="40"/>&nbsp
   <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" title="Firebase Test Lab" alt="Firebase Test Lab" height="40" /></a>  
 </div>
 
