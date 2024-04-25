@@ -32,13 +32,17 @@
     <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f711
 </div>
 
+
 ---
+
+---
+
 
 ### 📱 Тестирование мобильных приложений:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android-Studio" alt="Android-Studio" width="40" height="40"/>&nbsp
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" title="Firebase Test Lab" alt="Firebase Test Lab" height="40" /></a>  
+    <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" title="Firebase Test Lab" alt="Firebase Test Lab" height="40" /></a> 
 </div>
 
 ---
