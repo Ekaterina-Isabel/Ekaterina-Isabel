@@ -65,8 +65,8 @@
 
 ### Проекты
 
-- [Тестирование интернет-магазина "Skillbox" (учебный проект)](https://ekaterinakuz.youtrack.cloud/agiles/159-2/current)
-- [Тестирование веб-сервиса с помощью автотестов на Java](https://github.com/Ekaterina-Isabel/Diploma/blob/master/README.md)
+- [Тестирование сайта интернет-магазина "Skillbox" (учебный проект)](https://github.com/Ekaterina-Isabel/Testing-an-online-store-website)
+- [Тестирование веб-сервиса путешествий с помощью автотестов на Java (учебный проект)](https://github.com/Ekaterina-Isabel/Diploma/blob/master/README.md)
 - составление сценариев для ручного тестирования сайта, баг-репортов - [Курсовой проект «Ручное тестирование веб-приложений»](https://github.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/blob/main/README.md)
   - написан чеклист для функциональной проверки личного кабинета сайта,
   - составлен набор тест-кейсов на проверку функционала восстановления пароля,
