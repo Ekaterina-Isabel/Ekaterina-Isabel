@@ -66,23 +66,18 @@
 ### Проекты
 
 - [Тестирование сайта интернет-магазина "Skillbox" (учебный проект)](https://github.com/Ekaterina-Isabel/Testing-an-online-store-website)
+- [Ручное тестирование веб-приложений. Составление сценариев для ручного тестирования сайта, баг-репортов](https://github.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/blob/main/README.md)
 - [Тестирование веб-сервиса путешествий с помощью автотестов на Java (учебный проект)](https://github.com/Ekaterina-Isabel/Diploma/blob/master/README.md)
-- составление сценариев для ручного тестирования сайта, баг-репортов - [Курсовой проект «Ручное тестирование веб-приложений»](https://github.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/blob/main/README.md)
-  - написан чеклист для функциональной проверки личного кабинета сайта,
-  - составлен набор тест-кейсов на проверку функционала восстановления пароля,
-  - на основе скриншота созданы баг-репорты, 
-  - проанализирован POST запрос на сайте при работе с личными данными пользователей
-- [Домашние работы по курсу «Git — система контроля версий»](https://github.com/Ekaterina-Isabel/GIT-31-hw)
-- [Домашние работы по курсу «Java для тестировщиков»](https://github.com/Ekaterina-Isabel/JAVAQA-31-hw)
-- [Домашние работы по курсу «Автоматизированное тестирование»](https://github.com/Ekaterina-Isabel/AQA-31-hw)
-
+ 
 ### Диплом
-- [Тестировщик ПО](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma_1.jpg) [программа](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma_2.jpg) (Нетология)
+- [Тестировщик ПО](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma_1.jpg) [программа](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/software%20tester_Diploma_2.jpg) (Нетология, дата выдачи 2022 год)
+
 ### Сертификаты
-- [ручное тестирование веб-приложений](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/manual%20testing%20of%20web%20applications.jpg))
-- [Git](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Git.jpg)
-- [Java для тестировщиков](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Java%20for%20testers.jpg)
-- [автоматизированное тестирование](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/automated%20testing.jpg)
+- [Тестирование web-приложений](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Skillbox_%20web_application_tester.png) (Skillbox, дата выдачи 2024 год)
+- [Ручное тестирование веб-приложений](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/manual%20testing%20of%20web%20applications.jpg) (Нетология, дата выдачи 2022 год)
+- [Git](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Git.jpg) (Нетология, дата выдачи 2022 год)
+- [Java для тестировщиков](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/Java%20for%20testers.jpg) (Нетология, дата выдачи 2022 год)
+- [Автоматизированное тестирование на Java](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/automated%20testing.jpg) (Нетология, дата выдачи 2022 год)
 
 ### Удостоверение о повышении квалификации
-- [Web-программист: с нуля до первых проектов](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/professional_development_certificate.jpg) (Томский государственный университет)
+- [Web-программист: с нуля до первых проектов](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/professional_development_certificate.jpg) (Томский государственный университет, дата выдачи 2022 год)
